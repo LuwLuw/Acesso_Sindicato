@@ -1,1 +1,9 @@
-# Acesso_Sindicato
+Programa feito utilizando o Framework QT Creator.
+O codigo utiliza um banco de dados, cujo endereço deve ser colocado no arquivo "ender.txt" para o programa acessar, e o nome do arquivo do banco de dados deve ser "DadosCadastro", que pode ser alterado pelo codigo.
+O programa foi feito para acessar o cadastro das pessoas ligadas ao sindicato dos trabalhadores de Guaratinguetá, sendo exclusivamente para acessom, sem nem a possibilidade de adicionar ou alterar os dados.
+Feito para que seja simples e rapido de ser utilizado, e para complementar o outro programa "Sistema_Sindicato", ja que fazer um programa com um acesso para cada um tornaria sua utilização mais lenta e acarretaria em possiveis problemas de esquecer o acesso. Sendo assim optei por fazer dois programas separados ja que o segundo não daria tanto trabalho para ser feito e evitaria problemas, facilitando para mim resolver os problemas tambem ja que seriam dois aplicativos separados, seria mais facil identificar os erros.
+
+Program made using the QT Creator Framework.
+The code uses a database, whose address must be placed in the "ender.txt" file for the program to access, and the name of the database file must be "DadosCadastro", which can be changed by the code.
+The program was created to access the registration of people linked to the Guaratinguetá workers' union, being exclusively for access, without even the possibility of adding or changing the data.
+Made to be simple and quick to use, and to complement the other program "Sistema_Sindicato", since making a program with one access for each one would make its use slower and lead to possible problems of forgetting the access. Therefore, I chose to create two separate programs since the second one would not require so much work to be done and would avoid problems, making it easier for me to solve problems as well since they would be two separate applications, it would be easier to identify errors.
